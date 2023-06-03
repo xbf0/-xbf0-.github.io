@@ -1,0 +1,1 @@
+import{_ as e,p as n,q as t,s as a}from"./framework-4bf64526.js";const o={},s=a("p",null,"00",-1),_=[s];function c(i,l){return n(),t("div",null,_)}const d=e(o,[["render",c],["__file","xiaoyuandalingqi.html.vue"]]);export{d as default};
