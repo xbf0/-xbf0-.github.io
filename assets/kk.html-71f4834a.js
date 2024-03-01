@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as s,s as _}from"./framework-4bf64526.js";const c={},o=_("p",null,"ii",-1),n=[o];function r(a,l){return t(),s("div",null,n)}const d=e(c,[["render",r],["__file","kk.html.vue"]]);export{d as default};

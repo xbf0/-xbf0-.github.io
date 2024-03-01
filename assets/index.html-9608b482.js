@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5e9eaeef","path":"/tags/shixiyaoqiu%EF%BC%88dianzi%EF%BC%89/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{e as data};
