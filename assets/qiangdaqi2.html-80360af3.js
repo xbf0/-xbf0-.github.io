@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-7949200b","path":"/blogs/category1/buxianshi/xianshi/qiangdaqi2.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"blogs/category1/不显示/显示/抢答器2.md"}');export{a as data};

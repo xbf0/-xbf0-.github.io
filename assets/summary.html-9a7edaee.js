@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-3012a54a","path":"/blogs/jackaroo/summary.html","title":"direction","lang":"en-US","frontmatter":{"title":"direction","date":"2023-11-01T00:00:00.000Z","tags":["实习要求（电子）"],"categories":["jackaroo"]},"headers":[],"git":{},"filePathRelative":"blogs/jackaroo/summary.md"}');export{a as data};
