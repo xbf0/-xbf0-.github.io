@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-37a1a932","path":"/blogs/category1/buxianshi/xianshi/xiaoyuandalingqi.html","title":"校园打铃器","lang":"en-US","frontmatter":{"title":"校园打铃器","date":"2023-04-08T00:00:00.000Z","tags":["51基础"],"categories":["51单片机"]},"headers":[],"git":{},"filePathRelative":"blogs/category1/不显示/显示/校园打铃器.md"}');export{a as data};

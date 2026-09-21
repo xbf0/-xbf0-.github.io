@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-64e6ee79","path":"/blogs/English/word.html","title":"英语（个人版）","lang":"en-US","frontmatter":{"title":"英语（个人版）","date":"2023-06-03T00:00:00.000Z","password":"6471d4b8fe85ac78bcb49f87c12690c6","tags":["个人"],"categories":["英语"]},"headers":[],"git":{},"filePathRelative":"blogs/English/word.md"}');export{e as data};
